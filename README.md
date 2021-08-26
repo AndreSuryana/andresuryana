@@ -1,4 +1,11 @@
-### Hi there 👋
+### Haloo 🙌
+
+Perkenalkan namaku **Kadek Andre Suryana**.\
+Aku saat ini sedang menempa ilmu di Universitas Udayana Program Studi Informatika.\
+Aku memiliki ketertarikan pada Android Development.\
+Jika kamu tertarik untuk berkenalan dan berteman denganku,\
+kamu bisa kunjungi akun [LinkedIn](https://www.linkedin.com/in/andresuryana/) ku yaa.. 😊
+
 
 <!--
 **AndreSuryana/andresuryana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
